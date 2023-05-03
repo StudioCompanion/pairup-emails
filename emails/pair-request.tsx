@@ -90,7 +90,7 @@ const container = {
 };
 
 const primary = {
-    backgroundColor: '#AFD0DD',
+    backgroundColor: '#FFCB67',
     padding: '24px 48px',
     borderRadius: '20px',
     minHeight: '200px',
