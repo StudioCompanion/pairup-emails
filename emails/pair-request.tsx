@@ -87,7 +87,6 @@ const container = {
     backgroundColor: 'none',
     margin: '0 auto',
     padding: '20px 0 48px',
-    margin: '0px auto'
 };
 
 const primary = {
